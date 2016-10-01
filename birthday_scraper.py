@@ -1,3 +1,8 @@
+#-----------------------------
+# Version- 0.1 
+# By Adam Deeley
+#-----------------------------
+
 import urllib.request
 from bs4 import BeautifulSoup
 from selenium import webdriver
